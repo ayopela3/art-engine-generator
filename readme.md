@@ -9,7 +9,7 @@ you can also modify the configuration of the metadata in the `config.js` file. i
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/HashLips/hashlips_art_engine.git
+git clone https://github.com/ayopela3/art-engine-generator.git
 ```
 
 Go to the root of your folder and run this command if you have yarn installed.
